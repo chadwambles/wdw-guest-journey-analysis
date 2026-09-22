@@ -1,0 +1,27 @@
+# Raw Reddit data from Arctic Shift, not ours to redistribute
+posts_*.jsonl
+comments_*.jsonl
+
+# Derived files that contain other people's writing
+trip_reports.jsonl
+trip_reports_index.csv
+labels*.jsonl
+labels*.csv
+
+# Batch tracking, specific to this machine
+batch_id.txt
+
+# Secrets, in case the API key ever lands in a file
+.env
+
+# Python and editor clutter
+__pycache__/
+*.pyc
+.vscode/
+Thumbs.db
+desktop.ini
+
+# No data files in the repo, ever. They contain other people's writing.
+*.jsonl
+*.csv
+batch_id.txt
