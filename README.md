@@ -6,7 +6,7 @@ Across 604 guest trip reports, every stage of the trip scores positively except 
 
 This repository holds the pipeline that produced that: scraping, extraction, labeling, and profiling.
 
-**Labeled dataset on Kaggle:** _[link]_
+**Labeled dataset on Kaggle:** _[[link](https://www.kaggle.com/datasets/chadwambles/disney-world-guest-journey-labels/data)]_
 **Write-up:** _[link]_
 
 ---
